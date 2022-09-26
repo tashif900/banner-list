@@ -1,35 +1,35 @@
 {
     "bannerList": [
         {
-            "urlRegex": "lm-ss21-017",
+            "urlRegex": "/lm-ss21-017/",
             "type": "LIVE",
             "targetElement": "myElementId_1",
             "position": "REPLACE",
             "text": "Hello World From bannerA"
         },
         {
-            "urlRegex": "product-category/clothes",
+            "urlRegex": "/product-category/clothes/",
             "type": "TEST",
             "targetElement": "myElementId_2",
             "position": "BEFORE",
             "text": "Hello World From bannerB"
         },
         {
-            "urlRegex": "lm-ss21-006",
+            "urlRegex": "/lm-ss21-006/",
             "type": "LIVE",
             "targetElement": "myElementId_3",
             "position": "REPLACE",
             "text": "Hello World From bannerC"
         },
         {
-            "urlRegex": "/coat",
+            "urlRegex": "/coat/",
             "type": "LIVE",
             "targetElement": "myElementId_2",
             "position": "AFTER",
             "text": "Hello World From bannerD"
         },
         {
-            "urlRegex": "/maxi",
+            "urlRegex": "/maxi/",
             "type": "TEST",
             "targetElement": "myElementId_4",
             "position": "REPLACE",
