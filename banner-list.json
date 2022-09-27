@@ -1,37 +1,37 @@
 {
     "bannerList": [
         {
-            "urlRegex": "/lm-ss21-017/",
+            "urlRegex": "/product/lm-ss21-017/",
             "type": "LIVE",
-            "targetElement": "myElementId_1",
+            "targetElement": ".product_title entry-title",
             "position": "REPLACE",
             "text": "Hello World From bannerA"
         },
         {
             "urlRegex": "/product-category/clothes/",
-            "type": "TEST",
-            "targetElement": "myElementId_2",
+            "type": "LIVE",
+            "targetElement": ".term-description",
             "position": "BEFORE",
             "text": "Hello World From bannerB"
         },
         {
-            "urlRegex": "/lm-ss21-006/",
+            "urlRegex": "/product/lm-ss21-006/",
             "type": "LIVE",
-            "targetElement": "myElementId_3",
+            "targetElement": ".product_title entry-title",
             "position": "REPLACE",
             "text": "Hello World From bannerC"
         },
         {
-            "urlRegex": "/coat/",
+            "urlRegex": "/product-category/clothes/coat/",
             "type": "LIVE",
-            "targetElement": "myElementId_2",
+            "targetElement": ".woodmart-active-filters",
             "position": "AFTER",
             "text": "Hello World From bannerD"
         },
         {
-            "urlRegex": "/maxi/",
-            "type": "TEST",
-            "targetElement": "myElementId_4",
+            "urlRegex": "/product-category/clothes/maxi/",
+            "type": "LIVE",
+            "targetElement": ".woodmart-active-filters",
             "position": "REPLACE",
             "text": "Hello World From bannerE"
         }
