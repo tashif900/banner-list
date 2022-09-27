@@ -3,7 +3,7 @@
         {
             "urlRegex": "/product/lm-ss21-017/",
             "type": "LIVE",
-            "targetElement": ".product_title entry-title",
+            "targetElement": ".product_title",
             "position": "REPLACE",
             "text": "Hello World From bannerA"
         },
@@ -17,7 +17,7 @@
         {
             "urlRegex": "/product/lm-ss21-006/",
             "type": "LIVE",
-            "targetElement": ".product_title entry-title",
+            "targetElement": ".product_title",
             "position": "REPLACE",
             "text": "Hello World From bannerC"
         },
